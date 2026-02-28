@@ -3,9 +3,9 @@ const settings = {
     token_github: "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",
     fileRepo: "userlogin.json",
     namaRepo: "mydb",
-    domain1: "https://banganzz14.lexzy.my.id",
-    apikey: "ptla_nZQdOi2BRWE2Wiv5mIMNhxoDY9wM5n5uaqixeLMyHyX", //plta
-    capikey: "ptlc_U8WSqQhWumjkEducUg1HUJFRKljAatHeR1JTqly6Eb0", //pltc
+    domain1: "https://terakhir.kawakunchan.biz.id",
+    apikey: "ptla_wAD47jay9iMIJE8jJ1f2iHc7mkqEgxTiFnmooThx4yN", //plta
+    capikey: "ptlc_5XNpiAXud1ooToUolgOfovjtgYRnvIVt6E27uAyJ1wA", //pltc
     egg: "15", // Isi id egg
     nestid: "5", // Isi id nest
     loc: "1" // Isi id location
